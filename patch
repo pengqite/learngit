@@ -1,0 +1,8 @@
+diff --git a/a b/a
+index 84afa8a..7313776 100644
+--- a/a
++++ b/a
+@@ -1 +1,3 @@
+ This is the file a
++Fix!!!
++hello
